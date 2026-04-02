@@ -10,3 +10,4 @@ If anything here interests you or if you have any questions, let's get in touch!
 
 Find me elsewhere: 
 - Credly
+- TryHackMe
