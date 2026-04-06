@@ -1,5 +1,5 @@
 # MODULE 01 - Blue Team Introduction
-**Completed**: April 2026
+**Completed**: April 2026<br>
 **Difficulty**: Easy
 
 # Tools and Concepts Used
@@ -11,7 +11,7 @@
 
 
 # MODULE 02 - SOC Team Internals
-**Completed**: April 2026
+**Completed**: April 2026<br>
 **Difficulty**: Easy
 
 # Tools and Concepts Used
