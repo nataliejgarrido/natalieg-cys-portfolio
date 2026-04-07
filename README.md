@@ -6,8 +6,8 @@ I'm new to the cybersecurity field, but I've got a lot of learning under my belt
 
 If anything here interests you or if you have any questions, let's get in touch! 
 - Email: natjgarrido@gmail.com 
-- LinkedIn:
+- <a href="https://www.linkedin.com/in/nataliejgarrido/">LinkedIn</a>
 
 Find me elsewhere: 
-- Credly
-- TryHackMe
+- <a href="https://tryhackme.com/p/naniegarrido">TryHackMe</a>
+- <a href="https://www.credly.com/users/natalie-garrido">Credly</a>
