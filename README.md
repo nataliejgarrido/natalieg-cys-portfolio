@@ -9,5 +9,5 @@ If anything here interests you or if you have any questions, let's get in touch!
 - <a href="https://www.linkedin.com/in/nataliejgarrido/">LinkedIn</a>
 
 Find me elsewhere: 
-- <a href="https://tryhackme.com/p/naniegarrido">TryHackMe</a>
+- <a href="https://tryhackme.com/p/natjgarrido">TryHackMe</a>
 - <a href="https://www.credly.com/users/natalie-garrido">Credly</a>
