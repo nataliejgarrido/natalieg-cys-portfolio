@@ -7,9 +7,6 @@
 - Blue teaming
 - Attack vectors
 
-## Key Takeaways and My Thoughts
-
-
 # MODULE 02 - SOC Team Internals
 **Completed**: April 2026<br>
 **Difficulty**: Easy
