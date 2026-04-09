@@ -1,4 +1,4 @@
-# CORE SOC SOLUTIONS: Rooms 1 – 5
+# ⚙️ CORE SOC SOLUTIONS: Rooms 1 – 5
 **Completed**: April 2026<br>
 **Difficulty**: Easy – Medium
 
