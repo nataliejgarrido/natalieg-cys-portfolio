@@ -10,4 +10,4 @@
 - Telemetry
 - Alerting
 
-## Thoughts and Takeaways
+## My Thoughts and Key Takeaways
