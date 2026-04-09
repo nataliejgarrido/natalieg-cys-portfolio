@@ -1,4 +1,4 @@
-# BLUE TEAM INTRODUCTION: Rooms 1 – 4
+# 🔷 BLUE TEAM INTRODUCTION: Rooms 1 – 4
 **Completed**: April 2026<br>
 **Difficulty**: Easy
 
@@ -10,7 +10,7 @@
 ## Key Takeaways and My Thoughts
 It seems that a Security Operations Center's role hierarchy is a lot like the military. You've got the Manager who's like the Commanding Officer, the Senior Analyst who's like the Lieutenant, and the Level 1 Analysts are like the Privates/Corporals. It's very interesting to read about how they all work together.
 
-# SOC TEAM INTERNALS: Rooms 1 – 5
+# 🛡️ SOC TEAM INTERNALS: Rooms 1 – 5
 **Completed**: April 2026<br>
 **Difficulty**: Easy
 
