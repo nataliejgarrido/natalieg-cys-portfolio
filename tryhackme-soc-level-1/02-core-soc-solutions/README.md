@@ -11,5 +11,7 @@
 - Alerting
 - Splunk basics
 - Elastic Stack basics
+- Security Orchestration, Automation, and Response
 
 ## Key Takeaways and My Thoughts
+I really liked using Elastic Stack in the "Elastic Stack: The Basics" room. The software looks clean, the filter functions are intuitive, and the ability to visualize logs in a pie or bar chart is cool. I was really amazed at how intuitive the software is!
