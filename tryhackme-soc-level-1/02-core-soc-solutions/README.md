@@ -14,4 +14,4 @@
 - Security Orchestration, Automation, and Response
 
 ## Key Takeaways and My Thoughts
-I really liked using Elastic Stack in the "Elastic Stack: The Basics" room. The software looks clean, the filter functions are intuitive, and the ability to visualize logs in a pie or bar chart is cool. I was really amazed at how intuitive the software is!
+I really liked using Elastic Stack in the "Elastic Stack: The Basics" room. The software looks clean, the filter functions are intuitive (easy to understand for anybody that has a basic working knowledge of SQL and/or Python), and the ability to visualize logs in a pie or bar chart is cool. I can't stress this enough, I was really amazed at how intuitive the software is!
