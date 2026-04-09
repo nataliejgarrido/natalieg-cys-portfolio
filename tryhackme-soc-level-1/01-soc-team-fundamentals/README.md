@@ -1,4 +1,4 @@
-# MODULE 01 - Blue Team Introduction
+# Blue Team Introduction
 **Completed**: April 2026<br>
 **Difficulty**: Easy
 
@@ -7,7 +7,7 @@
 - Blue teaming
 - Attack vectors
 
-# MODULE 02 - SOC Team Internals
+# SOC Team Internals
 **Completed**: April 2026<br>
 **Difficulty**: Easy
 
