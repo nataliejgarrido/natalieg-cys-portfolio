@@ -1,6 +1,6 @@
-# ROOMS 1 & 2: Introduction to EDR & Introduction to SIEM
+# ROOMS 1 – 5
 **Completed**: April 2026<br>
-**Difficulty**: Easy
+**Difficulty**: Easy – Medium
 
 ## Tools and Concepts Used
 - Endpoint Detection and Response
@@ -9,5 +9,7 @@
 - Log ingestion
 - Telemetry
 - Alerting
+- Splunk basics
+- Elastic Stack basics
 
 ## Key Takeaways and My Thoughts
