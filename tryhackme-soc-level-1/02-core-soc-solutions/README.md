@@ -9,9 +9,9 @@
 - Log ingestion
 - Telemetry
 - Alerting
-- Splunk basics
-- Elastic Stack basics
-- Security Orchestration, Automation, and Response
+- **Splunk** basics
+- **Elastic Stack** basics
+- **Security Orchestration, Automation, and Response** basics
 
 ## Key Takeaways and My Thoughts
-I really liked using Elastic Stack in the "Elastic Stack: The Basics" room. The software looks clean, the filter functions are intuitive (easy to understand for anybody that has a basic working knowledge of SQL and/or Python), and the ability to visualize logs in a pie or bar chart is cool. I can't stress this enough, I was really amazed at how intuitive the software is!
+I really liked using Elastic Stack in the "Elastic Stack: The Basics" room. The software looks clean, the filter functions are intuitive (easy to understand for anybody that has a basic working knowledge of SQL and/or any query language), and the ability to visualize logs in a pie or bar chart is cool. I can't stress this enough, I was really amazed at how intuitive the software is!
