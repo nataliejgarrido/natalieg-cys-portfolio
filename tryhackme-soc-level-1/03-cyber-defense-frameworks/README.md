@@ -1,4 +1,4 @@
-# 📋 CYBER DEFENSE FRAMEWORKS: Rooms 1-6
+# 📋 CYBER DEFENSE FRAMEWORKS: Rooms 1 – 6
 **Completed**: April 2026<br>
 **Difficulty**: Easy – Medium
 
@@ -9,5 +9,7 @@
 - Threat modelling
 - MITRE ATT&CK framework
 - MITRE D3FEND framework
+- MITRE ATT&CK Navigator
 
 ## Key Takeaways and My Thoughts
+I particularly liked doing the "Summit" and "Eviction" rooms. I appreciate that the room allowed for hands-on experience, while simplified, with threat analysis.
