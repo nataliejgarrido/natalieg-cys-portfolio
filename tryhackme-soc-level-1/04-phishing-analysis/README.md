@@ -7,3 +7,4 @@
 - Email header and body analysis
 - Types of phishing (spear, whaling, vishing, smishing, spam)
 - Business Email Compromise (BEC)
+- ANYRUN sandbox analysis of malicious attachments
