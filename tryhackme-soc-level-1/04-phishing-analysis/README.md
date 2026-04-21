@@ -14,4 +14,4 @@
 - SMTP traffic analysis
 - Internet Message Format (IMF) analysis
 
-## My Thoughts and Takeaways
+## Key Takeaways and My Thoughts
