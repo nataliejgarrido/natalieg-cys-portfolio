@@ -1,6 +1,6 @@
 # 🎣 PHISHING ANALYSIS: Rooms 1 – 7
 **Completed:** April 2026<br>
-**Difficulty:** Easy – 
+**Difficulty:** Easy – Medium
 
 ## Tools and Concepts Used
 - Mail protocols (POP3, SMTP, IMAP)
