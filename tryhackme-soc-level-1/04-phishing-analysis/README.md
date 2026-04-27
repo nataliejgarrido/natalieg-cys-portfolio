@@ -52,11 +52,16 @@ I'm appreciative of the amount of tools available for malware and email analysis
 ## ROOM 5: The Greenholt Phish
 
 ### Tools and Concepts Used
-
-### Key Takeaways and My Thoughts
+- Email header analysis
+- DMARC lookup
+- SPF Record check
+- Hash analysis
+- VirusTotal
 
 ## ROOM 6: Snapped Phish-ing Line
 
 ### Tools and Concepts Used
-
-### Key Takeaways and My Thoughts
+- Email header analysis
+- Phishing email analysis
+- Cyber Threat Intelligence (VirusTotal)
+- Hash analysis
