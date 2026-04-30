@@ -1,6 +1,6 @@
 # 💻 NETWORK TRAFFIC ANALYSIS: Rooms 1 – 5
-**Completed**: April 2026<br>
-**Difficulty**: Easy
+**Completed**: May 2026<br>
+**Difficulty**: Easy – Medium
 
 ## ROOM 1: Network Traffic Basics
 
@@ -27,7 +27,7 @@
 - Capture/Display filters
 
 ### Key Takeaways and My Thoughts
-I am familiar with Wireshark, and I've used it often during my studies. I appreciate that this room really gets into the knitty gritty of it (finding packets, marking packets, making comments on specific packets, exporting packets, exporting objects, etc). 
+I am familiar with Wireshark, and I've used it often during my studies. I appreciate that this room really gets into the knitty-gritty of it (finding packets, marking packets, making comments on specific packets, exporting packets, exporting objects, etc). 
 
 ## ROOM 3: Wireshark (Packet Operations)
 
@@ -42,3 +42,11 @@ I am familiar with Wireshark, and I've used it often during my studies. I apprec
 - Configuration profiles
 
 ### Key Takeaways and My Thoughts
+I appreciate the in-depth view into display filters. This feature of Wireshark has always intimidated me, but knowing that the program has many different ways to make filtering as intuitive as possible is comforting.
+
+## ROOM 4: Wireshark (Traffic Analysis)
+
+### Tools and Concepts Used
+- Nmap
+- TCP flags (basics)
+- Types of Nmap TCP scans and how to filter them in Wireshark (TCP connect, SYN scan, UDP scan)
