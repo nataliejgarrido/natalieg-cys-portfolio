@@ -47,7 +47,7 @@ I appreciate the in-depth view into display filters. This feature of Wireshark h
 ## ROOM 4: Wireshark (Traffic Analysis)
 
 ### Tools and Concepts Used
-- Nmap
+- Nmap scan analysis
 - TCP flags (basics)
 - Types of Nmap TCP scans and how to filter them in Wireshark (TCP connect, SYN scan, UDP scan)
 - ARP poisoning/spoofing
