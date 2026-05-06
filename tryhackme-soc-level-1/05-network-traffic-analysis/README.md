@@ -59,3 +59,8 @@ I appreciate the in-depth view into display filters. This feature of Wireshark h
 - DNS analysis
 - Cleartext FTP analysis
 - Cleartext HTTP analysis
+- HTTPS analysis
+- Creating firewall rules in Wireshark
+
+### Key Takeaways and My Thoughts
+I'm realizing now that I really didn't know the breadth of Wireshark's capabilities. The tool is incredibly useful and is capable of a lot of things. I didn't even know it could create firewall rules! 
