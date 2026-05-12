@@ -64,3 +64,10 @@ I appreciate the in-depth view into display filters. This feature of Wireshark h
 
 ### Key Takeaways and My Thoughts
 I'm realizing now that I really didn't know the breadth of Wireshark's capabilities. The tool is incredibly useful and is capable of a lot of things. I didn't even know it could create firewall rules! 
+
+## ROOM 5: NetworkMiner
+
+### Tool and Concepts Used
+- NetworkMiner (versions 1.6 and 2.7)
+- Network forensic analysis
+- PCAP analysis
