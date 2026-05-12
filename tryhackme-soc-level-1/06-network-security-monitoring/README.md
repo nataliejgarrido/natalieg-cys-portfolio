@@ -3,3 +3,6 @@ Completed: May 2026<br>
 Difficulty: Easy –
 
 ## ROOM 1: Network Security Essentials
+
+### Tools and Concepts Used
+- Network components
