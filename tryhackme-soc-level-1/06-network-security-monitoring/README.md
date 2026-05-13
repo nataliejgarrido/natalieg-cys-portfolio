@@ -9,4 +9,6 @@ Difficulty: Easy –
 - Network visibility
 - Visibility through host-centric logs
 - Visibility through network-centric logs
+- Network perimeter
+- Network perimeter log analysis (firewalls, VPN, WAF)
 - 
