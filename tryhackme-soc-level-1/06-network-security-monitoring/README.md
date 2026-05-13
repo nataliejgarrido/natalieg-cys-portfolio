@@ -6,3 +6,7 @@ Difficulty: Easy –
 
 ### Tools and Concepts Used
 - Network components
+- Network visibility
+- Visibility through host-centric logs
+- Visibility through network-centric logs
+- 
