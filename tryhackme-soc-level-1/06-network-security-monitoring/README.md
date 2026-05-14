@@ -10,5 +10,10 @@ Difficulty: Easy –
 - Visibility through host-centric logs
 - Visibility through network-centric logs
 - Network perimeter
-- Network perimeter log analysis (firewalls, VPN, WAF)
+- Network perimeter log analysis (firewalls, VPN, WAF, IDS)
+- Anomalous behavior analysis
+
+## ROOM 2: Network Discovery Detection
+
+### Tools and Concepts Used
 - 
