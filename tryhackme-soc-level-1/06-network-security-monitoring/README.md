@@ -16,4 +16,12 @@ Difficulty: Easy –
 ## ROOM 2: Network Discovery Detection
 
 ### Tools and Concepts Used
-- 
+- Network discovery
+- External and internal scanning (concepts)
+- Horizontal and vertical scanning (concepts)
+- Ping sweeps, TCP SYN scans, UDP scans (concepts)
+- Identifying scan types using Elastic/Kibana
+
+## ROOM 3: Data Exfiltration Detection
+
+### Tools and Concepts Used
